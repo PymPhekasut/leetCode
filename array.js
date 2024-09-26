@@ -88,8 +88,7 @@ function maxSubarraySum(arr){
     return res
 }
 
-// const arr = [2, 4, -6, 9, -1, 2, 3];
-//console.log("maxSubarraySum:: ", maxSubarraySum(arr));
+console.log("maxSubarraySum:: ", maxSubarraySum([2, 4, -6, 9, -1, 2, 3]));
 
 // Function to find the minimum value
 function findMin(arr){
